@@ -496,9 +496,8 @@ Index(['sno', 'gender ', 'Age', 'education', 'currentSmoker', 'cigsPerDay',
 
 
 
-```
-
-
 ## Result
+
+
 
 The dataset was successfully cleaned and preprocessed. Data types were verified, missing values and duplicate values were identified, and statistics were generated. The data is now ready for further analysis such as EDA and regression modelling.
